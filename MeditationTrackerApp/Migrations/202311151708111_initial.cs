@@ -1,4 +1,4 @@
-﻿namespace ExpenseTrackerApp.Migrations
+﻿namespace MeditationTrackerApp.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
